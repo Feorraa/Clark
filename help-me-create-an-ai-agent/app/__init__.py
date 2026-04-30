@@ -1,0 +1,2 @@
+"""Daily news Discord agent."""
+
